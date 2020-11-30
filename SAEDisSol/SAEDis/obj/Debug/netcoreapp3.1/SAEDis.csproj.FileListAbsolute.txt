@@ -1,8 +1,5 @@
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\SAEDis.StaticWebAssets.xml
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\SAEDis.exe
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\bin\Debug\netcoreapp3.1\SAEDis.deps.json
@@ -96,3 +93,4 @@ C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\obj\Debug\netco
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Navbar.cshtml.g.cs
 C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Sidebar.cshtml.g.cs
+C:\Users\jsali\Desktop\Develop\Projectos\SAEDis\SAEDisSol\SAEDis\obj\Debug\netcoreapp3.1\scopedcss\bundle\SAEDis.styles.css
