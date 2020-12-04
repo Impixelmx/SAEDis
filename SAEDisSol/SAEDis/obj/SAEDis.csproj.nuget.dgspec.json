@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Metzguer\\Desktop\\SAEDis\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {}
+    "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Metzguer\\Desktop\\SAEDis\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {
+    "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Metzguer\\Desktop\\SAEDis\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
+        "projectUniqueName": "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
         "projectName": "SAEDis",
-        "projectPath": "C:\\Users\\Metzguer\\Desktop\\SAEDis\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
+        "projectPath": "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
         "packagesPath": "C:\\Users\\Metzguer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Metzguer\\Desktop\\SAEDis\\SAEDis\\SAEDisSol\\SAEDis\\obj\\",
+        "outputPath": "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
