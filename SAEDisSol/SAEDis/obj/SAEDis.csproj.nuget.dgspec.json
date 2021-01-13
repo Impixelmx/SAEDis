@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {}
+    "C:\\Users\\Metzguer\\Desktop\\SAEDIS\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {
+    "C:\\Users\\Metzguer\\Desktop\\SAEDIS\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
+        "projectUniqueName": "C:\\Users\\Metzguer\\Desktop\\SAEDIS\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
         "projectName": "SAEDis",
-        "projectPath": "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
+        "projectPath": "C:\\Users\\Metzguer\\Desktop\\SAEDIS\\SAEDis\\SAEDisSol\\SAEDis\\SAEDis.csproj",
         "packagesPath": "C:\\Users\\Metzguer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Metzguer\\Documents\\1\\SAEDis\\SAEDisSol\\SAEDis\\obj\\",
+        "outputPath": "C:\\Users\\Metzguer\\Desktop\\SAEDIS\\SAEDis\\SAEDisSol\\SAEDis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Metzguer\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -84,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
